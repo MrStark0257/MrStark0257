@@ -1,11 +1,11 @@
 <div align="center">
 
-<!-- J.A.R.V.I.S. HOLOGRAPHIC WAVE HEADER -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0:000a14,35:002b49,75:005588,100:00f2fe&height=220&section=header&text=J.A.R.V.I.S.%20HUD%20INTERFACE&fontSize=40&fontColor=00f2fe&animation=fadeIn&fontAlignY=36&desc=STARK%20INDUSTRIES%20•%20CORE%20PROTOCOL%20v4.2.0&descSize=15&descAlignY=60" width="100%"/>
+<!-- MEET PAVAGADHI HOLOGRAPHIC WAVE HEADER -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0:000a14,35:002b49,75:005588,100:00f2fe&height=220&section=header&text=MEET%20PAVAGADHI&fontSize=42&fontColor=00f2fe&animation=fadeIn&fontAlignY=36&desc=UI%2FUX%20DESIGNER%20•%20FRONTEND%20DEVELOPER&descSize=16&descAlignY=60" width="100%"/>
 
 <!-- DYNAMIC TYPING TERMINAL -->
 <a href="https://github.com/MrStark0257">
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=600&size=20&duration=3000&pause=1000&color=00F2FE&center=true&vCenter=true&width=650&height=45&lines=INITIALIZING+J.A.R.V.I.S.+PROTOCOLS...;ACCESS+GRANTED%2C+MR.+STARK.;ARC+REACTOR+ONLINE+%7C+100%25+EFFICIENCY;SYSTEM+STATUS%3A+FULLY+OPERATIONAL;" alt="Typing HUD" />
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=600&size=20&duration=3000&pause=1000&color=00F2FE&center=true&vCenter=true&width=650&height=45&lines=WELCOME+TO+MY+DIGITAL+WORKSPACE;MEET+PAVAGADHI+%7C+UI%2FUX+%26+FRONTEND;CRAFTING+MODERN+%26+CLEAN+INTERFACES;SYSTEM+STATUS%3A+ONLINE;" alt="Typing HUD" />
 </a>
 
 <br/>
