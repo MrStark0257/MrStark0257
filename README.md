@@ -64,6 +64,7 @@
 
 ### 📡 `COMMUNICATION CHANNELS`
 
+<p align="center">
   <a href="https://www.linkedin.com/in/meet-pavagadhi-66087a205/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Meet%20Pavagadhi-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
@@ -71,12 +72,6 @@
   <a href="https://github.com/MrStark0257" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-MrStark0257-00f2fe?style=for-the-badge&logo=github&logoColor=000&labelColor=0d1117" alt="GitHub" />
   </a>
-
-<br/><br/>
-
-<p align="center">
-  💼 <b>LinkedIn:</b> <a href="https://www.linkedin.com/in/meet-pavagadhi-66087a205/">linkedin.com/in/meet-pavagadhi-66087a205</a> &nbsp;•&nbsp; 
-  🐙 <b>GitHub:</b> <a href="https://github.com/MrStark0257">github.com/MrStark0257</a>
 </p>
 
 </div>
