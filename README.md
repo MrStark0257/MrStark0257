@@ -14,10 +14,10 @@
 
 <!-- HUD STATUS TELEMETRY BADGES -->
 <p align="center">
-  <img src="https://img.shields.io/badge/CORE%20STATUS-ONLINE-00f2fe?style=for-the-badge&logo=electron&logoColor=000&labelColor=0d1117" />
-  <img src="https://img.shields.io/badge/ARC%20REACTOR-100%25%20OPTIMAL-00f2fe?style=for-the-badge&logo=speedtest&logoColor=000&labelColor=0d1117" />
-  <img src="https://img.shields.io/badge/CLEARANCE-LEVEL%207-00f2fe?style=for-the-badge&logo=shield&logoColor=000&labelColor=0d1117" />
-  <img src="https://img.shields.io/badge/AFFILIATION-NEXVEDA%20TECHNOLOGIES-00f2fe?style=for-the-badge&logo=probot&logoColor=000&labelColor=0d1117" />
+  <img src="https://img.shields.io/badge/CORE%20STATUS-ONLINE-00f2fe?style=for-the-badge&logo=electron&logoColor=000&labelColor=0d1117" alt="Core Status" />
+  <img src="https://img.shields.io/badge/ARC%20REACTOR-100%25%20OPTIMAL-00f2fe?style=for-the-badge&logo=speedtest&logoColor=000&labelColor=0d1117" alt="Arc Reactor" />
+  <img src="https://img.shields.io/badge/CLEARANCE-LEVEL%207-00f2fe?style=for-the-badge&logo=shield&logoColor=000&labelColor=0d1117" alt="Clearance" />
+  <img src="https://img.shields.io/badge/AFFILIATION-NEXVEDA%20TECHNOLOGIES-00f2fe?style=for-the-badge&logo=probot&logoColor=000&labelColor=0d1117" alt="Affiliation" />
 </p>
 
 </div>
@@ -37,10 +37,29 @@
 
 <div align="center">
 
-### 📊 `HUD TELEMETRY // REAL-TIME METRICS`
+### 📊 `HUD TELEMETRY // REAL-TIME METRICS & STATS`
 
-<!-- UNIFIED CUSTOM ARC REACTOR HUD TELEMETRY DASHBOARD -->
-<img src="./assets/hud-telemetry.svg" width="100%" alt="J.A.R.V.I.S. Real-Time Telemetry Dashboard" />
+<!-- UNIFIED PROFILE DETAILS & CONTRIBUTION GRAPH -->
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MrStark0257&theme=tokyonight" width="100%" alt="HUD Profile Details" />
+
+<br/><br/>
+
+<!-- STREAK STATS (HIGH CONTRAST WHITE NUMBERS + CYAN ARC REACTOR) -->
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=MrStark0257&theme=tokyonight&hide_border=true&background=1a1b27&ring=00f2fe&fire=00f2fe&currStreakLabel=00f2fe&sideNums=ffffff&currStreakNum=ffffff&sideLabels=38bdf8&dates=94a3b8" width="100%" alt="Streak Stats" />
+
+<br/><br/>
+
+<!-- TOP LANGUAGES TELEMETRY -->
+<table align="center" border="0" cellspacing="0" cellpadding="0" style="margin-left: auto; margin-right: auto;">
+  <tr>
+    <td align="center" valign="middle">
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=MrStark0257&theme=tokyonight" alt="Languages by Repo" />
+    </td>
+    <td align="center" valign="middle">
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=MrStark0257&theme=tokyonight" alt="Languages by Commit" />
+    </td>
+  </tr>
+</table>
 
 </div>
 
