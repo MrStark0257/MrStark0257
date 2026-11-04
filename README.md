@@ -37,36 +37,6 @@
 
 <div align="center">
 
-### 📊 `HUD TELEMETRY // REAL-TIME METRICS & STATS`
-
-<!-- UNIFIED PROFILE DETAILS & CONTRIBUTION GRAPH -->
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MrStark0257&theme=tokyonight" width="100%" alt="HUD Profile Details" />
-
-<br/><br/>
-
-<!-- STREAK STATS (HIGH CONTRAST WHITE NUMBERS + CYAN ARC REACTOR) -->
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=MrStark0257&theme=tokyonight&hide_border=true&background=1a1b27&ring=00f2fe&fire=00f2fe&currStreakLabel=00f2fe&sideNums=ffffff&currStreakNum=ffffff&sideLabels=38bdf8&dates=94a3b8" width="100%" alt="Streak Stats" />
-
-<br/><br/>
-
-<!-- TOP LANGUAGES TELEMETRY -->
-<table align="center" border="0" cellspacing="0" cellpadding="0" style="margin-left: auto; margin-right: auto;">
-  <tr>
-    <td align="center" valign="middle">
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=MrStark0257&theme=tokyonight" alt="Languages by Repo" />
-    </td>
-    <td align="center" valign="middle">
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=MrStark0257&theme=tokyonight" alt="Languages by Commit" />
-    </td>
-  </tr>
-</table>
-
-</div>
-
----
-
-<div align="center">
-
 ### 🛠️ `ARSENAL & WEAPONS OF CHOICE`
 
 <p align="center">
