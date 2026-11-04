@@ -24,9 +24,9 @@
 
 ---
 
-### 🌐 `SYSTEM DIRECTIVE & BIOGRAPHY`
-
 <div align="center">
+
+### 🌐 `SYSTEM DIRECTIVE & BIOGRAPHY`
 
 > ### ⚡ *"UI/UX Designer, FrontEnd Developer, Graphic Designer"*
 > **I build modern websites, dashboards, and digital experiences with a strong focus on usability and clean design.**
@@ -35,33 +35,39 @@
 
 ---
 
+<div align="center">
+
 ### 📊 `HUD TELEMETRY // METRICS & STATS`
 
-<div align="center">
-  <table border="0" cellspacing="0" cellpadding="0">
-    <tr>
-      <td align="center" valign="middle">
-        <!-- GITHUB STATS IN CYAN HUD THEME -->
-        <img src="https://github-readme-stats.vercel.app/api?username=MrStark0257&show_icons=true&bg_color=0d1117&title_color=00f2fe&text_color=94a3b8&icon_color=00f2fe&border_color=004466&hide_border=false" width="415" alt="GitHub Stats" />
-      </td>
-      <td align="center" valign="middle">
-        <!-- STREAK STATS IN CYAN HUD THEME -->
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=MrStark0257&background=0d1117&stroke=004466&ring=00f2fe&fire=00f2fe&currStreakLabel=00f2fe&sideLabels=94a3b8&dates=94a3b8" width="415" alt="Streak Stats" />
-      </td>
-    </tr>
-  </table>
+<!-- PROFILE DETAILS & CONTRIBUTION GRAPH IN 2077 HUD THEME -->
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MrStark0257&theme=2077" width="100%" alt="HUD Profile Details" />
 
-  <br/>
+<br/><br/>
 
-  <!-- TOP LANGUAGES TELEMETRY -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MrStark0257&layout=compact&bg_color=0d1117&title_color=00f2fe&text_color=94a3b8&border_color=004466&hide_border=false" width="460" alt="Top Languages" />
+<!-- STREAK STATS IN CYAN HUD THEME -->
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=MrStark0257&background=0d1117&stroke=004466&ring=00f2fe&fire=00f2fe&currStreakLabel=00f2fe&sideLabels=94a3b8&dates=94a3b8" width="100%" alt="Streak Stats" />
+
+<br/><br/>
+
+<!-- TOP LANGUAGES TELEMETRY (BY REPO & COMMIT) -->
+<table align="center" border="0" cellspacing="0" cellpadding="0" style="margin-left: auto; margin-right: auto;">
+  <tr>
+    <td align="center" valign="middle">
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=MrStark0257&theme=2077" alt="Languages by Repo" />
+    </td>
+    <td align="center" valign="middle">
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=MrStark0257&theme=2077" alt="Languages by Commit" />
+    </td>
+  </tr>
+</table>
+
 </div>
 
 ---
 
-### 🛠️ `SUBSYSTEM CAPABILITIES & TOOLS`
-
 <div align="center">
+
+### 🛠️ `SUBSYSTEM CAPABILITIES & TOOLS`
 
 | Module | Technologies & Arsenal | Status |
 | :--- | :--- | :---: |
@@ -73,9 +79,9 @@
 
 ---
 
-### 📡 `COMMUNICATION CHANNELS`
-
 <div align="center">
+
+### 📡 `COMMUNICATION CHANNELS`
 
   <a href="https://linkedin.com/in/honey-pavagadhi-66087a205" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Connect%20Securely-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
