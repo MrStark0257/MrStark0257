@@ -21,7 +21,7 @@
 
     <!-- Deep Tech Radial Background -->
     <radialGradient id="hudBgGrad" cx="50%" cy="50%" r="70%">
-      <stop offset="0%" stop-color="#002238" stop-opacity="0.7" />
+      <stop offset="0%" stop-color="#002238" stop-opacity="0.75" />
       <stop offset="60%" stop-color="#091420" stop-opacity="0.95" />
       <stop offset="100%" stop-color="#0d1117" stop-opacity="1" />
     </radialGradient>
@@ -130,117 +130,4 @@
 
     <!-- Metric 4: Affiliation -->
     <g transform="translate(18, 184)">
-      <text x="0" y="16" font-family="'Segoe UI', sans-serif" font-weight="800" font-size="14" fill="#a855f7">
-        NEXVEDA TECHNOLOGIES
-      </text>
-      <text x="0" y="32" font-family="'Segoe UI', Roboto, monospace" font-size="9.5" fill="#94a3b8" letter-spacing="1">
-        PRIMARY ENTERPRISE AFFILIATION
-      </text>
-    </g>
-  </g>
-
-  <!-- ==================== CENTER CARD: ARC REACTOR RADAR ==================== -->
-  <g transform="translate(295, 62)">
-    <rect width="260" height="236" rx="8" fill="url(#cardGrad)" stroke="#004466" stroke-width="1" />
-    
-    <!-- Header -->
-    <text x="130" y="26" text-anchor="middle" font-family="'Segoe UI', Roboto, monospace" font-weight="700" font-size="11" fill="#00f2fe" letter-spacing="1.5">
-      TACTICAL READINESS
-    </text>
-    <line x1="20" y1="34" x2="240" y2="34" stroke="#004466" stroke-width="1" />
-
-    <!-- Animated Arc Core Display -->
-    <g transform="translate(130, 100)">
-      <!-- Outer Dial -->
-      <circle cx="0" cy="0" r="46" fill="none" stroke="#00f2fe" stroke-width="1" stroke-dasharray="4, 4" opacity="0.4">
-        <animateTransform attributeName="transform" type="rotate" from="0" to="360" dur="25s" repeatCount="indefinite" />
-      </circle>
-      <!-- Middle Cyan Ring -->
-      <circle cx="0" cy="0" r="38" fill="none" stroke="#38bdf8" stroke-width="2" stroke-dasharray="24, 8" opacity="0.8" filter="url(#subtle-hud-glow)">
-        <animateTransform attributeName="transform" type="rotate" from="360" to="0" dur="15s" repeatCount="indefinite" />
-      </circle>
-      <!-- Inner Solid Ring -->
-      <circle cx="0" cy="0" r="28" fill="none" stroke="#004466" stroke-width="2.5" />
-      <circle cx="0" cy="0" r="28" fill="none" stroke="#00f2fe" stroke-width="2.5" stroke-dasharray="140, 40" stroke-linecap="round" filter="url(#subtle-hud-glow)" />
-      <!-- Pulsing Core -->
-      <circle cx="0" cy="0" r="10" fill="#002238" stroke="#00f2fe" stroke-width="1.5" />
-      <circle cx="0" cy="0" r="5" fill="#00f2fe" filter="url(#hud-glow)">
-        <animate attributeName="r" values="4;6.5;4" dur="2s" repeatCount="indefinite" />
-      </circle>
-    </g>
-
-    <!-- Readiness Diagnostics Readout -->
-    <g transform="translate(20, 168)" font-family="'Segoe UI', Roboto, monospace" font-size="10.5">
-      <text x="0" y="14" fill="#94a3b8">ARC CORE EFFICIENCY:</text>
-      <text x="220" y="14" text-anchor="end" fill="#00f2fe" font-weight="700">100% NOMINAL</text>
-
-      <text x="0" y="34" fill="#94a3b8">SECURITY CLEARANCE:</text>
-      <text x="220" y="34" text-anchor="end" fill="#00e676" font-weight="700">LEVEL 7</text>
-
-      <text x="0" y="54" fill="#94a3b8">SYSTEM DIRECTIVE:</text>
-      <text x="220" y="54" text-anchor="end" fill="#38bdf8" font-weight="700">ACTIVE // DEV</text>
-    </g>
-  </g>
-
-  <!-- ==================== RIGHT CARD: LANGUAGE & DOMAIN BREAKDOWN ==================== -->
-  <g transform="translate(570, 62)">
-    <rect width="250" height="236" rx="8" fill="url(#cardGrad)" stroke="#004466" stroke-width="1" />
-    
-    <!-- Header -->
-    <text x="18" y="26" font-family="'Segoe UI', Roboto, monospace" font-weight="700" font-size="11" fill="#00f2fe" letter-spacing="1.5">
-      ARSENAL BREAKDOWN
-    </text>
-    <line x1="18" y1="34" x2="232" y2="34" stroke="#004466" stroke-width="1" />
-
-    <!-- Language 1: TypeScript -->
-    <g transform="translate(18, 52)">
-      <text x="0" y="0" font-family="'Segoe UI', Roboto, monospace" font-weight="700" font-size="10.5" fill="#ffffff">
-        TypeScript
-      </text>
-      <text x="214" y="0" text-anchor="end" font-family="'Segoe UI', Roboto, monospace" font-size="10" fill="#00f2fe">
-        45%
-      </text>
-      <rect y="6" width="214" height="6" rx="3" fill="#002238" />
-      <rect y="6" width="96" height="6" rx="3" fill="url(#barCyan)" filter="url(#subtle-hud-glow)" />
-    </g>
-
-    <!-- Language 2: JavaScript -->
-    <g transform="translate(18, 94)">
-      <text x="0" y="0" font-family="'Segoe UI', Roboto, monospace" font-weight="700" font-size="10.5" fill="#ffffff">
-        JavaScript
-      </text>
-      <text x="214" y="0" text-anchor="end" font-family="'Segoe UI', Roboto, monospace" font-size="10" fill="#38bdf8">
-        30%
-      </text>
-      <rect y="6" width="214" height="6" rx="3" fill="#002238" />
-      <rect y="6" width="64" height="6" rx="3" fill="url(#barCyan)" opacity="0.85" />
-    </g>
-
-    <!-- Language 3: UI/UX & Figma -->
-    <g transform="translate(18, 136)">
-      <text x="0" y="0" font-family="'Segoe UI', Roboto, monospace" font-weight="700" font-size="10.5" fill="#ffffff">
-        UI/UX &amp; Design Systems
-      </text>
-      <text x="214" y="0" text-anchor="end" font-family="'Segoe UI', Roboto, monospace" font-size="10" fill="#a855f7">
-        95%
-      </text>
-      <rect y="6" width="214" height="6" rx="3" fill="#002238" />
-      <rect y="6" width="203" height="6" rx="3" fill="url(#barPurple)" filter="url(#subtle-hud-glow)" />
-    </g>
-
-    <!-- Language 4: Modern CSS / Tailwind -->
-    <g transform="translate(18, 178)">
-      <text x="0" y="0" font-family="'Segoe UI', Roboto, monospace" font-weight="700" font-size="10.5" fill="#ffffff">
-        CSS3 / Tailwind
-      </text>
-      <text x="214" y="0" text-anchor="end" font-family="'Segoe UI', Roboto, monospace" font-size="10" fill="#10b981">
-        25%
-      </text>
-      <rect y="6" width="214" height="6" rx="3" fill="#002238" />
-      <rect y="6" width="53" height="6" rx="3" fill="url(#barGreen)" />
-    </g>
-  </g>
-
-  <!-- Bottom Scanline & Sub-caption -->
-  <line x1="30" y1="305" x2="820" y2="305" stroke="url(#cyanLineGrad)" stroke-width="1" opacity="0.5" />
-</svg>
+      <text x="0" y="1
